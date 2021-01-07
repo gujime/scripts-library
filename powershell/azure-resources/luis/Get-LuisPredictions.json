@@ -1,0 +1,15 @@
+{
+    "method": "GET",
+    "endpoint": "https://{luis-runtime-resource-name}.cognitiveservices.azure.com",
+    "luisappid": "",
+    "slot": "{staging | production}",
+    "subscriptionkey": "",
+    "questions":[
+        {
+            "value": ""
+        },
+        {
+            "value": ""
+        }
+    ]
+}
